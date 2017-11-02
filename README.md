@@ -1,2 +1,3 @@
-[Use cases, Requirements, Mock Up, Database Organization](Milestones/CSC648-848 Section 01 Summer 2017 Milestone2 Team04.pdf)
-[Usability and QA test plan](Milestones/CSC648-848 Section 01 Summer 2017 Milestone4 Team04.pdf)
+[Use cases, Requirements, Mock Up, Database Organization](https://github.com/Ryan-Jung/PixSale/blob/master/Milestones/CSC648-848%20Section%2001%20Summer%202017%20Milestone2%20Team04.pdf)
+
+[Usability and QA test plan](https://github.com/Ryan-Jung/PixSale/blob/master/Milestones/CSC648-848%20Section%2001%20Summer%202017%20Milestone4%20Team04.pdf)
